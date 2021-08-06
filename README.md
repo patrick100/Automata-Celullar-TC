@@ -1,3 +1,3 @@
 # Automata-Celullar-TC
-trabajo de automa cellular para teoria de la computacion
+trabajo de automa celular para teoria de la computacion
 PROGRAMADO EN C++
